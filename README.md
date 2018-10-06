@@ -1,2 +1,2 @@
 # INF3405
-INF3405 Labs
+Repository dedicated to lab projects for the Computer Networks course at Polytechnique (INF3405).
